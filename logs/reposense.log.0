@@ -1,0 +1,1386 @@
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser validateHeader
+INFO: Parsed header of CSV file, repo-config.csv, and recognized columns: Ignore Commit List,  Repository's Location,  Branch,  Shallow Cloning,  File formats,  Ignore Glob List,  Ignore Authors List,  Ignore standalone config
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 2 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/jeffsieu/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 3 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/dannytayjy/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 4 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/frederickpek/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 5 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/jennibearduit/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 6 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/rickyaandrew/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 7 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/mokdarren/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 8 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/wangpeialex/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 9 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/SweetPotato0213/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 10 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Harry-Gao-H/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 11 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/yongxiangng/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 12 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ZhaoPeiduo/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 13 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/bernarduskrishna/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 14 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/chengseong/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 15 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/mingyi456/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 16 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/junghon3709/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 17 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/cookiedan42/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 18 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/whoisjustinngo/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 19 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/somekoreanboi/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 20 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/willpyt98/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 21 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/xnajasho/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 22 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/g4ryy/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 23 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/jiarong15/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 24 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/RachelCheah/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 25 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/random689/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 26 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/SajalVaishnav/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 27 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/HangZelin/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 28 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/TTraveller7/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 29 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Kimowarui/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 30 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/JThh/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 31 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Jiwei99/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 32 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/rehmmann/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 33 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/darren2pro/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 34 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/tanjoewel/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 35 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/erwinqxy/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 36 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/itsyme/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 37 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/joshenx/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 38 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/dhshah1/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 39 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/cliveong/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 40 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AllardQuek/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 41 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/FergusMok/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 42 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/tzejit/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 43 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/wlren/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 44 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/luayida99/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 45 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/wei2912/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 46 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/weiquu/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 47 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/meerian/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 48 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/koh-jx/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 49 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/over-fitted/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 50 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/okyntary/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 51 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/bryanwee023/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 52 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/yatbun/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 53 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/BenjaminTan99/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 54 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/LMAOboxhack/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 55 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/justintanyf/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 56 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/chaiwanlin/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 57 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/gycgabriel/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 58 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/nujiak/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 59 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/zhuoyang125/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 60 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/charliemoweng/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 61 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/kslui99/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 62 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Justinhoejj/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 63 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/sebbycake/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 64 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/WangGLJoseph/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 65 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/shermannws/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 66 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/didymental/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 67 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/yeppog/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 68 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/sherrpass/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 69 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ooawagaeri/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 70 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/pss-coder/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 71 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ryanongra/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 72 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/nzixuan/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 73 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/luffingluffy/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 74 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/IceWizard4902/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 75 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/uyencfi/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 76 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/rish-16/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 77 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/wanninglim/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 78 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/SpdPnd98/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 79 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/reddevil1313/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 80 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/felissaf/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 81 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ailing35/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 82 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/jivesh/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 83 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/nniiggeell/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 84 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/weenleen/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 85 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/caipng/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 86 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/meixuanjin/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 87 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/marcusc55/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 88 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/RonaldTanSingWei/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 89 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/itsraveen/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 90 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/yucheng11122017/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 91 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Chen-Yiyang/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 92 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Ruofan1023/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 93 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/xlzior/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 94 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ziqing26/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 95 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/leezhixuan/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 96 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/huyuxin0429/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 97 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/huisthat/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 98 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/jovyntls/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 99 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/GraceWang2322/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 100 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/lrnshk/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 101 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Siddharth-Sid/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 102 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/szelongq/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 103 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/danielsimre/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 104 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/waynetee/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 105 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/jayasting98/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 106 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/JoelChanZhiYang/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 107 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/BenjaminLHR/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 108 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/yourally2/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 109 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Haozeee/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 110 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/clyveycui/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 111 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/GnohChengYi/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 112 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/lwlshawn/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 113 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/amzhy/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 114 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/lizchow/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 115 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/trxe/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 116 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ErnestCuong/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 117 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/simonjulianl/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 118 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/sheehui/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 119 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/dannylty/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 120 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/bklimey/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 121 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/muhammad-khair/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 122 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/luluyousef/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 123 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/rehad-a/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 124 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/yuifuku1118/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 125 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/chingh20/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 126 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/kawaiigabrielneko/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 127 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/scsminn/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 128 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Morrow1ndy/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 129 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/limzk126/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 130 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/NaokiShum/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 131 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/zzybluebell/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 132 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Leofeng10/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 133 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/WuaaAj/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 134 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/LuoZhijie-tom/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 135 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Li-Lehao/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 136 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/wengYing227/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 137 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/IrvingHe000/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 138 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/fans2619/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 139 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Dr-Octavius/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 140 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/kaushikkrdy/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 141 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/stanley-1/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 142 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/rohit0718/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 143 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Tetrerox/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 144 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/sunjc826/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 145 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Timothyoung97/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 146 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/chrus-chong/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 147 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/bingcheng45/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 148 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/darrenhoon/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 149 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/kheekheekhee/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 150 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/benluiwj/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 151 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/marcuspeh/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 152 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/CheongYeeMing/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 153 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/squeakysquak/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 154 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/tanruiquan/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 155 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/bentanjunrong/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 156 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ramapriyan912001/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 157 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/moreTriangles/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 158 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/EssWhyy/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 159 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/mrmrinal/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 160 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/cedricongjh/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 161 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/wz27/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 162 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/lwj1711/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 163 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/e0543403/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 164 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/SKCheongBrian/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 165 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/jackgugz/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 166 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/sivayogasubramanian/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 167 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/joenzkimchan/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 168 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/felix-ong/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 169 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/sj1999-BIT/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 170 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/jiayi1129/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 171 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/JunWei3112/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 172 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/lowkangn/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 173 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/dt-td/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 174 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Th-429B/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 175 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/jason-ng-zq99/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 176 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/NayLin-H99/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 177 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Chang-CH/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 178 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ngsengleng/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 179 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/nguyiyang/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 180 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/auhc99/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 181 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/EltonGohJH/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 182 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/elroygohjy/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 183 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/benedictchuajj/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 184 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/beefham/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 185 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/tanhuakun/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 186 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Yttruire/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 187 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/cyyeu/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 188 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/qreoct/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 189 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/wanyu-l/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 190 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/TaoJun99/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 191 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/s7u4rt99/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 192 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Cyn7hius/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 193 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/KengXIII/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 194 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/chunweii/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 195 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/knotstoks/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 196 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/wyrchris/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 197 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/kflim/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 198 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/KT27Learn/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 199 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/rootkie/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 200 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/pattan9955/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 201 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/zihaooo9/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 202 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/seaweediman/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 203 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/yeo-yiheng/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 204 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/chetwinlow/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 205 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/yyhangz/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 206 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/jianh0ng/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 207 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/marcuschj/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 208 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/timiditi/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 209 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Anonymxtrix/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 210 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/kwokieee/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 211 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/leonghongfai/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 212 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/syoopie/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 213 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/boonhaii/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 214 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/tenebrius1/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 215 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Moley456/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 216 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/BryannYeap/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 217 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/chongjunwei/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 218 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/twothicc/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 219 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Manoharan-Ajay-Anand/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 220 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/xiangjunn/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 221 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Javiier-pzk/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 222 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/thanwinnikki/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 223 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Chesterwongz/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 224 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Py0000/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 225 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/LZher385/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 226 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ambroseboo/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 227 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/CheahYan/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 228 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/david-eom/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 229 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/wilburrito/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 230 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Kangxun/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 231 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/eugenecsa/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 232 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/fullfatwasabi/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 233 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/hpkoh/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 234 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/aikenwx/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 235 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/zhangchengchuan/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 236 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ryantianj/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 237 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/CSYGalvin/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 238 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Yukun99/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 239 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/BananaTechs/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 240 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/e0543860/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 241 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Imerbear/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 242 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/asherhy/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 243 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/weichang18/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 244 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/yzhilong/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 245 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/jeromewjj/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 246 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/1waykiat/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 247 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/adam-ky/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 248 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ykwei7/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 249 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/xianlinc/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 250 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ganhongyao/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 251 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/kevin9foong/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 252 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/junwei26/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 253 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/mslevis/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 254 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/MarcusTXK/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 255 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/michael-lee-sk/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 256 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/e0543978/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 257 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/tanjiaxian99/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 258 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Zacchua/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 259 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/bnjmnt4n/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 260 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/yulonglim/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 261 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Gabau/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 262 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Droffilc13/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 263 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/cheweejia/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 264 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Domszy/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 265 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/hernpiblo/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 266 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/yunpeng1234/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 267 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/CrownKira/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 268 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/wowsiddanth/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 269 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/El0hime/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 270 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/noobmaster19/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 271 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/NecroWolf28/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 272 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/muhammad-faruq/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 273 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/XXJJXJ/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 274 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/markuslim24/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 275 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/tau-bar/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 276 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/James-Kua/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 277 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/rldefa/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 278 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Bluntsord/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 279 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/jonas-chow/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 280 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/rgbpokka/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 281 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Joel-Sung/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 282 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/clementkfj/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 283 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/botr99/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 284 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/charltonator/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 285 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/GWphua/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 286 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/trash-bin99/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 287 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ntwbruce/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 288 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/TLChicken/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 289 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/KelvinSoo/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 290 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Jacobnbh/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 291 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Jeromesyl/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 292 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/idgrr/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 293 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Imranr2/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 294 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/juliussneezer04/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 295 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/KishendranVendarKon/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 296 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/mukundrs/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 297 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Samuel-bit-prog/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 298 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ChuangZheQuan/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 299 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/NicolasCwy/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 300 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/lhw-1/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 301 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/calvintanwj/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 302 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/luminousleek/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 303 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/gok99/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 304 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/leeroy999/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 305 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/softmagnet/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 306 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/bernardwan/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 307 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/samyipsh/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 308 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/SkyBlaise99/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 309 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/tchiong/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 310 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Zenlzb/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 311 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/hanif-kamal/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 312 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/jyrw/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 313 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/atyhamos/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 314 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/nhjryan/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 315 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/bharathcs/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 316 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/zhenghanlee/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 317 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Zhou-Jiahao-1998/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 318 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/aryagiat/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 319 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/nwhloo99/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 320 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/GabrielWLM/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 321 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ryanpeh/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 322 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/NUSmhk/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 323 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/qinguorui2001/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 324 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/NekrozQliphort/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 325 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/pualixue/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 326 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/pbthang/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 327 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/xyliew25/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 328 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/hungkhoaitay/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 329 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/nbvannhi/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 330 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/kevinmingtarja/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 331 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/LeopardMerkava/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 332 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/radiankrisno/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 333 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/CommanderW324/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 334 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/JasonC01/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 335 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/huizhuansam/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 336 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/EthanWong6362/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 337 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/HalphasX/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 338 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ngchisern/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 339 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/tsm1820/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 340 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/VimuthM/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 341 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/gordonlzy/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 342 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/HongshuW/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 343 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/DesmondTo/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 344 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/eltonyeh/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 345 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/SHEZADHASSAN22/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 346 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/willyamped/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 347 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/itzblim/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 348 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/hmanhduc2k/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 349 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/feliciaivane/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 350 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/rushilramesh/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 351 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/vigneshsankariyer1234567890/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 352 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Linda124/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 353 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Zhouyirui/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 354 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/phuccuongngo99/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 355 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Wilfredwongkc/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 356 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/YoYoCiti/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 357 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/HolmesJJ/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 358 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/kanjitp/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 359 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ramaven/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 360 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/alinaleehx/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 361 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/stephanie-csy/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 362 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Linxcathyyy/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 363 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/YaleChen299/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:53 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 364 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Amadeus-Winarto/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 365 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Xiaoyunnn/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 366 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/JeffZincatz/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 367 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/neojxuan/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 368 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/LiuZhi1an/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 369 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/eeliana/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 370 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/wpinrui/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 371 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ruthpohrp/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 372 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/nicole-luo-exe/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 373 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/angkoonhwee/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 374 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/zognin/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 375 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/rebeccacxy/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 376 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/zhing22/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 377 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ruoyann/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 378 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/driip-ddrop/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 379 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/hsiaotingluv/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 380 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/janjanchen/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 381 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/jodichoo/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 382 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/JosephN37/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 383 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/greyguy21/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 384 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Ongzl/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 385 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Jingwencloud/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 386 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/timothywongej/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 387 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/peilinye/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 388 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/lingshanng/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 389 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/jeremy-7007/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 390 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/lethiciars/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 391 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/alyssa-savier/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 392 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/zhenxuantan/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 393 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/kdeasymoneysniper/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 394 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/chowRuiYan/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 395 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/zacharylwy/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 396 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/ngjiayuan/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 397 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/jaredlhf/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 398 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Superbestron/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 399 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/choonyongchan/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 400 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/luodan01/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 401 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/chownces/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 402 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/tianyue58/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 403 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/tsinyee/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 404 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/JinxinZhao315/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 405 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/nataniayp/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 406 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/DonnyS57/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 407 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/rebeccalaujx/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 408 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/kvihashini/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 409 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Pulpy-y/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 410 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/skythefire/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 411 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Shruthi0310/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 412 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Neha-5678/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 413 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/alissayarmantho/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 414 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Preshita01/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 415 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/sueann-chua/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 416 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/limdanqi/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 417 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/xiongjya/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 418 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/TohWeiJie01/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 419 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/EuniceSim142/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 420 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/wonyeji/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 421 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/pcgiang/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 422 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/jianoway/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 423 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/eezj35/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 424 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/NoraYUuu/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 425 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/davelowqx/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 426 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/jhlee1997/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 427 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/kleonang/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 428 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Gordon25/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 429 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/angnobel/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 430 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/kaldius/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 431 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/DystoriaX/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 432 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/tsy24/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 433 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/mweeruien/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 434 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/tanqiya/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 435 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Lemonsr/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 436 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/kaixin-hc/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 437 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/czhi-bin/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 438 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/guangxuan/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 439 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/tsiyuk/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 440 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/crypto-code/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 441 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/CraveToCode/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 442 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/YeluriKetan/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 443 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/houtenteo/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 444 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/MGRL2201/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 445 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Tanishq4331/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 446 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Shivlock221b/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 447 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Tianqi-Zhu/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 448 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/aishh12/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 449 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Agentum07/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 450 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/srj31/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 451 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Jai2501/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 452 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/nicolej2122/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 453 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/naranghardik16/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 454 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Banana3021/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 455 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/aakanshanarain/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 456 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/shaliniseshadri/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 457 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/loose-bus-change/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 458 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/yin72257/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 459 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/pranav-ganesh/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 460 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/Nature711/ip.git,master,,tutorials/**,,,
+Aug 18, 2021 4:14:54 AM reposense.RepoSense main
+WARNING: No valid configurations in the repo-config.csv.
+reposense.parser.InvalidCsvException: No valid configurations in the repo-config.csv.
+	at reposense.parser.CsvParser.parse(CsvParser.java:106)
+	at reposense.RepoSense.getRepoConfigurations(RepoSense.java:108)
+	at reposense.RepoSense.main(RepoSense.java:60)
+
